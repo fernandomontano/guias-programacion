@@ -1,0 +1,7 @@
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#04\distanciaEjercicio4\distanciaEjercicio4\bin\Debug\distanciaEjercicio4.exe.config
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#04\distanciaEjercicio4\distanciaEjercicio4\bin\Debug\distanciaEjercicio4.exe
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#04\distanciaEjercicio4\distanciaEjercicio4\bin\Debug\distanciaEjercicio4.pdb
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#04\distanciaEjercicio4\distanciaEjercicio4\obj\Debug\distanciaEjercicio4.csprojAssemblyReference.cache
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#04\distanciaEjercicio4\distanciaEjercicio4\obj\Debug\distanciaEjercicio4.csproj.CoreCompileInputs.cache
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#04\distanciaEjercicio4\distanciaEjercicio4\obj\Debug\distanciaEjercicio4.exe
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#04\distanciaEjercicio4\distanciaEjercicio4\obj\Debug\distanciaEjercicio4.pdb

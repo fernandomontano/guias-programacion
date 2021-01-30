@@ -1,0 +1,7 @@
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#03\ecuacionEjercicio3\ecuacionEjercicio3\bin\Debug\ecuacionEjercicio3.exe.config
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#03\ecuacionEjercicio3\ecuacionEjercicio3\bin\Debug\ecuacionEjercicio3.exe
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#03\ecuacionEjercicio3\ecuacionEjercicio3\bin\Debug\ecuacionEjercicio3.pdb
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#03\ecuacionEjercicio3\ecuacionEjercicio3\obj\Debug\ecuacionEjercicio3.csprojAssemblyReference.cache
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#03\ecuacionEjercicio3\ecuacionEjercicio3\obj\Debug\ecuacionEjercicio3.csproj.CoreCompileInputs.cache
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#03\ecuacionEjercicio3\ecuacionEjercicio3\obj\Debug\ecuacionEjercicio3.exe
+E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#03\ecuacionEjercicio3\ecuacionEjercicio3\obj\Debug\ecuacionEjercicio3.pdb
