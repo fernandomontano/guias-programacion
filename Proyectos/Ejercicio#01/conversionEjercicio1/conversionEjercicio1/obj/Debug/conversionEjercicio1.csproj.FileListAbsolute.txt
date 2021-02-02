@@ -1,7 +1,0 @@
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#01\conversionEjercicio1\conversionEjercicio1\bin\Debug\conversionEjercicio1.exe.config
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#01\conversionEjercicio1\conversionEjercicio1\bin\Debug\conversionEjercicio1.exe
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#01\conversionEjercicio1\conversionEjercicio1\bin\Debug\conversionEjercicio1.pdb
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#01\conversionEjercicio1\conversionEjercicio1\obj\Debug\conversionEjercicio1.csprojAssemblyReference.cache
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#01\conversionEjercicio1\conversionEjercicio1\obj\Debug\conversionEjercicio1.csproj.CoreCompileInputs.cache
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#01\conversionEjercicio1\conversionEjercicio1\obj\Debug\conversionEjercicio1.exe
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#01\conversionEjercicio1\conversionEjercicio1\obj\Debug\conversionEjercicio1.pdb

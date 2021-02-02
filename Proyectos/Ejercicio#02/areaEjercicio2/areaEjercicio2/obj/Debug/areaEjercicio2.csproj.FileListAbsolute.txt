@@ -1,7 +1,0 @@
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#02\areaEjercicio2\areaEjercicio2\bin\Debug\areaEjercicio2.exe.config
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#02\areaEjercicio2\areaEjercicio2\bin\Debug\areaEjercicio2.exe
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#02\areaEjercicio2\areaEjercicio2\bin\Debug\areaEjercicio2.pdb
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#02\areaEjercicio2\areaEjercicio2\obj\Debug\areaEjercicio2.csprojAssemblyReference.cache
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#02\areaEjercicio2\areaEjercicio2\obj\Debug\areaEjercicio2.csproj.CoreCompileInputs.cache
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#02\areaEjercicio2\areaEjercicio2\obj\Debug\areaEjercicio2.exe
-E:\Documents\guias-programación\guiaSemana3\Proyectos\Ejercicio#02\areaEjercicio2\areaEjercicio2\obj\Debug\areaEjercicio2.pdb
