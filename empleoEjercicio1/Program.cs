@@ -62,14 +62,12 @@ namespace empleoEjercicio1{
                 else { 
                     Console.WriteLine($"Tu porcentaje es de acierto es {porcentaje}% y te encuentras fuera de nivel");
                 }
-
             }
+
             catch (FormatException) { 
                 Console.WriteLine("Dato ingresado no válido");
             }
-
             Console.ReadKey();
         }
-
     }
 }
