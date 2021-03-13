@@ -8,37 +8,42 @@ namespace Ejercicio2
         {
             try
             {
-                Console.Title = "Asteriscos";
-                int numero, i = 1;
-                Console.WriteLine("Digite un número entre 1-15");
-                numero = int.Parse(Console.ReadLine());
+                double r, angulo, x, y;
 
-                if (numero > 15)
-                {
-                    Console.WriteLine("El número está fuera de rango");
-                }
-                else
-                {
-                    while (i <= numero)
-                    {
-                        if (i % 2 == 1)
-                        {
-                            Console.ForegroundColor = ConsoleColor.Yellow;
-                        }
-                        else
-                        {
-                            Console.ForegroundColor = ConsoleColor.White;
-                        }
-                        Console.WriteLine($"\n {i}. *");
-                        i++;
-                    }
-                }
+                Console.Title = "Solicitud de datos";
+
+                Console.WriteLine("Ingresa el valor de 'r'");
+                r = double.Parse(Console.ReadLine());
+
+                Console.WriteLine("Ingrese el valor del angulo");
+                angulo = double.Parse(Console.ReadLine());
+
+                //Llamada a las funciones
+                Console.Title = "Presentación de resultados";
+                x = rectangularX(r, angulo);
+                Console.WriteLine($"La componente rectangular X es: {x}");
+
+                y = rectangularY(r, angulo);
+                Console.WriteLine($"La componente rectangular Y es: {y}");
             }
             catch (FormatException)
             {
-                Console.WriteLine("Tipo de dato no válido");
+                Console.WriteLine("El dato ingresado no es válido");
             }
+
             Console.ReadKey();
+        }
+        static double rectangularX(double a, double b)
+        {
+            double componenteX;
+            componenteX = Math.Round(a * Math.Cos(b),2);
+            return componenteX;
+        }
+        static double rectangularY(double a, double b)
+        {
+            double componenteY;
+            componenteY = Math.Round(a * Math.Sin(b),2);
+            return componenteY;
         }
     }
 }
